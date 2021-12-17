@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="/docs/animation/animation.gif" width="150">
-</p>
+
 <h1 align="center">Nexter project - the website for a realtors agency</h1>
 
 

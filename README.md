@@ -1,7 +1,7 @@
 <p align="center">
   <img src="/docs/animation/animation.gif" width="150">
 </p>
-<h1 align="center">Nexter project - the website for realtors agency</h1>
+<h1 align="center">Nexter project - the website for a realtors agency</h1>
 
 
 This website is for a realtors agency. I developed the main page, where the user can read about the company and choose the house to buy. 
